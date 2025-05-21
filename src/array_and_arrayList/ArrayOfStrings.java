@@ -17,6 +17,11 @@ public class ArrayOfStrings {
 		
 		System.out.println(Arrays.toString(arr));
 		
+		//output using for-each loop
+		for(String res:arr){
+			System.out.print(res+" ");
+		}
+		
 	}
 
 }
