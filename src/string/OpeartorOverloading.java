@@ -14,5 +14,4 @@ public class OpeartorOverloading {
         System.out.println("Kunal " + new Integer(56));
         System.out.println(new Integer(56) + "" + new ArrayList<>());
 	}
-
 }
