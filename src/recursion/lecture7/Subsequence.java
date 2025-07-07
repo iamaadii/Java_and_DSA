@@ -2,8 +2,6 @@ package recursion.lecture7;
 
 import java.util.ArrayList;
 
-import array_and_arrayList.Array_List;
-
 public class Subsequence {
 
 	public static void main(String[] args) {
